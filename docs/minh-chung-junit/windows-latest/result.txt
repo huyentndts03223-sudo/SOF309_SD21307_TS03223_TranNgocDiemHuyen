@@ -1,0 +1,4 @@
+﻿Run time: 2026-11-15T18:30:26.7404384+07:00
+Tests run: 67, Failures: 0, Errors: 0, Skipped: 0
+Command: mvn clean test -Dtest=AuthControllerTest,AdminCategoryControllerTest
+BUILD SUCCESS

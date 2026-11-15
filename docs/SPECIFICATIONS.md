@@ -1,5 +1,5 @@
 # Đặc tả Celine Closet
-Trần Ngọc Diễm Huyền · SD21307 · TS03223
+Dự án nhóm Celine Closet · SD21307 · Trần Ngọc Diễm Huyền (TS03223), Nguyễn Quang Khải (TS03226)
 
 Ứng dụng Java 17, Servlet/JSP, Hibernate và SQL Server. Các đường dẫn dưới đây tính từ context của ứng dụng trên Tomcat 11 tại localhost:8080.
 

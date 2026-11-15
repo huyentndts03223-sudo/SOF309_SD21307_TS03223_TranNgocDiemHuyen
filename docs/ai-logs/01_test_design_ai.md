@@ -5,4 +5,6 @@ Yêu cầu thiết kế: Dựa trên đặc tả Celine Closet, lập kế hoạ
 
 Đối chiếu mã: đăng nhập bằng email, mật khẩu giới hạn cả hai đầu 8–32, số điện thoại bắt đầu bằng 0, quyền CRUD danh mục thuộc ADMIN và xóa là xóa mềm. Ca chưa thực thi ghi Chưa chạy.
 
-Bộ thiết kế được điều chỉnh cho Trần Ngọc Diễm Huyền từ dự án Celine Closet dùng chung của nhóm. Huyền cần đối chiếu, chạy thử và ghi kết quả thực tế trên máy mình.
+
+## Cập nhật gói dùng chung
+Yêu cầu cập nhật là trình bày Test Plan và Test Cases theo bảng có phân công, tiền điều kiện, bước chạy, dữ liệu, mong đợi và trạng thái. Đối chiếu 67 lượt JUnit thật của Celine Closet và 12 ca web/SQL.
